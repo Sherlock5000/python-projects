@@ -13,6 +13,6 @@ elif entered_number < number:
     print("You were off by ", entered_number - number)
     print("The random number generated was ", number)
 elif entered_number == number:
-    print("You vahve guessed correctly !!. The number is indeed ", entered_number)
+    print("You have guessed correctly !!. The number is indeed ", entered_number)
 else:
     print("Input has been given incorrectly. Please try again.")
